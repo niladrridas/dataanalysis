@@ -15,8 +15,7 @@ This tool provides a convenient way to perform exploratory analysis on tabular d
 - Required libraries: pandas, Flask
 
 ### Installation
-pip install pandas Flask
-
+`pip install pandas Flask`
 
 ### Usage
 1. Clone the repository:
