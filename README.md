@@ -20,11 +20,11 @@ This tool provides a convenient way to perform exploratory analysis on tabular d
 ### Usage
 1. Clone the repository:
 
-`git clone https://github.com/niladrridas/data-analysis-tool.git`
+`git clone https://github.com/niladrridas/dataanalysis.git`
 
 2. Navigate to the project directory:
 
-`cd data-analysis-tool`
+`cd dataanalysis`
 
 3. Run the Flask application:
 
@@ -41,4 +41,4 @@ This application can be deployed to a web server to make it accessible to a broa
 Contributions are welcome! If you have ideas for improvements or encounter issues, please submit a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License - see the [License](https://github.com/niladrigithub/data-analysis-tool/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/niladrigithub/dataanalysis/blob/main/LICENSE) file for details.
